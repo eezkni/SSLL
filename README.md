@@ -3,7 +3,7 @@
 
 [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, Menglin Han<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=zh-CN)<sup>1</sup>, [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=zh-CN)<sup>3</sup>, [Sam Kwong](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN)<sup>4</sup>
 
-<sup>1</sup>Tongji University, <sup>2</sup>Peng Cheng Laboratory, <sup>3</sup>Meituan, <sup>4</sup>Lingnan Univerity
+<sup>1</sup>Tongji University, <sup>2</sup>Pengcheng Laboratory, <sup>3</sup>Meituan, <sup>4</sup>Lingnan Univerity
 
 This repository provides the official implementation for the paper "Semi-Supervised Low-Light Image Enhancement: When Mean Teacher Meets Contrastive Learning," 2025. 
 <!-- [Paper](https://arxiv.org/abs/2506.11823) -->
