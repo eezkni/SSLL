@@ -1,17 +1,17 @@
 # Semi-supervised Low-Light Image Enhancement: When Mean Teacher Meets Contrastive Learning
-#### Arxiv, 2025
+<!-- #### Arxiv, 2025 -->
 
-[Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, Menglin Han<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=zh-CN)<sup>1</sup>, Lin Ma<sup>3</sup>, [Sam Kwong](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN)<sup>4</sup>
+[Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, Menglin Han<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>, [Hanli Wang](https://scholar.google.com/citations?user=WioFu64AAAAJ&hl=zh-CN)<sup>1</sup>, [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=zh-CN)<sup>3</sup>, [Sam Kwong](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN)<sup>4</sup>
 
 <sup>1</sup>Tongji University, <sup>2</sup>Peng Cheng Laboratory, <sup>3</sup>Meituan, <sup>4</sup>Lingnan Univerity
 
-This repository provides the official implementation for the paper "Semi-Supervised Low-Light Image Enhancement: When Mean Teacher Meets Contrastive Learning," Arxiv, 2025. 
+This repository provides the official implementation for the paper "Semi-Supervised Low-Light Image Enhancement: When Mean Teacher Meets Contrastive Learning," 2025. 
 <!-- [Paper](https://arxiv.org/abs/2506.11823) -->
 
 ![Teaser](./readme-img/framework.png)
 
 ### Updates
-[2025-06-28] The test codes, pre-trained weights and datsets are provided in this repository, while the training codes will be released upon acceptance of the manuscript.
+[2025-08-02] The test codes, pre-trained weights and datsets are provided in this repository, while the training codes will be released upon acceptance of the manuscript.
 
 ## About SSLL
 
@@ -121,7 +121,7 @@ $ python common_utils/evaluation/eval_with_any_backbone.py --network NETWORK_TYP
 
 The output image(s) will be stored in the `--output` specified directory.
 
-## Citation
+<!-- ## Citation
 If you find our work useful, please cite it as
 ```
 @article{ni2025ssll,
@@ -133,7 +133,7 @@ If you find our work useful, please cite it as
 	year={2025},
 	publisher={Arxiv}
 }
-```
+``` -->
 
 ## Acknowledgments
 This code is inspired by [Palette](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models). We thank the authors for the nicely organized code!
