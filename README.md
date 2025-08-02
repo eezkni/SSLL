@@ -127,11 +127,11 @@ If you find our work useful, please cite it as
 @article{ni2025ssll,
   title={Semi-supervised Low-Light Image Enhancement: When Mean Teacher Meets Contrastive Learning},
 	author={Ni, Zhangkai, and Han, Menglin, and Yang, Wenhan, and Wang, Hanli, and Ma, Lin and Kwong, Sam},
-	journal={Arxiv},
+	journal={},
 	volume={},
 	pages={},
 	year={2025},
-	publisher={Arxiv}
+	publisher={}
 }
 ``` -->
 
